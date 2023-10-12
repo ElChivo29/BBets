@@ -79,4 +79,4 @@ the number of students to regualry make the pay out would be 29 students.
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
-
+in conclusion you would have to change the number of students or the payout in order to make some profit.
